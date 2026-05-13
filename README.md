@@ -2,6 +2,8 @@
 
 **Axiom Strategy** is a premium consulting site targeting D2C brands and SaaS founders. It positions Rohan as a growth strategist offering systematized 90-day programs with live lead magnet conversion, Calendly integration, and Supabase logging for lead tracking.
 
+![Axiom Strategy Home](./public/home.png)
+
 ## Overview
 
 Axiom Strategy demonstrates high-ticket B2B positioning:
